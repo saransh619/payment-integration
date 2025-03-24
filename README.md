@@ -76,15 +76,23 @@ A complete payment integration solution with eSewa and Khalti payment gateways f
 
 ## Screenshots
 
-1. **Payment Form**: The main form to collect customer information and payment details.
+1. **Payment Form**: The main form to collect customer information and initiate payment.
 
    ![Payment Form](screenshots/payment-form.png)
 
-2. **Payment Success**: Displayed after successful payment.
+2. **eSewa Payment**: Redirect to eSewa payment page.
+
+   ![eSewa Payment](screenshots/esewa-payment.png)
+
+3. **Khalti Payment**: Redirect to Khalti payment page.
+
+   ![Khalti Payment](screenshots/khalti-payment.png)
+
+4. **Payment Success**: Displayed after successful payment.
 
    ![Payment Success](screenshots/payment-success.png)
 
-3. **Payment Failure**: Displayed when payment fails.
+5. **Payment Failure**: Displayed when payment fails.
 
    ![Payment Failure](screenshots/payment-failure.png)
 
